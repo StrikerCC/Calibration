@@ -1,0 +1,49 @@
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+*.heic
+*.JPG
+*.JPEG
+*.PNG
+*.BMP
+*.TIF
+*.TIFF
+*.HEIC
+*.mp4
+*.mov
+*.MOV
+*.avi
+*.data
+*.json
+*.cfg
+*.ply
+*.pcd
+*.zip
+
+# Byte-compiled / optimized / DLL files
+bin/
+/build*
+*.dll
+Make*/
+cmake-build-debug/
+cmake-build-release/
+.cache
+.idea/
+.project
+.settings/
+.vs
+.vscode
+/cmake-*
+**/__pycache__
+
+# C extensions
+*.so
+
+# Datasets -------------------------------------------------------------------------------------------------------------
+data/
+
+# Results -------------------------------------------------------------------------------------------------------------
+wtf
